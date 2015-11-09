@@ -23,6 +23,7 @@ Some fun facts about the setup of this project include:
 * Used [poole](https://github.com/poole/poole) repo;
 * Hosted for free on [GitHub Pages](https://pages.github.com);
 * [The post](http://joshualande.com/jekyll-github-pages-poole/) which helped me to create this blog;
-* [Markdown](https://guides.github.com/features/mastering-markdown/) tutorial.
+* [Markdown](https://guides.github.com/features/mastering-markdown/) tutorial;
+* [Site](http://prose.io) for creating new posts.
 
 Thanks for reading!
