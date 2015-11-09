@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Nazar Ivanenko
 tagline:             'Notes'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'My personal blog for notes about programming.'
 url:                 http://nivanenko.github.io/
 shorturl:            nivanenko.github.io
 paginate:            10
@@ -19,12 +19,5 @@ author:
   email:             nazar.ivanenko@gmail.com
 
 ## Custom vars
-version:             1.0.0
 github:
   repo:              http://github.com/nivanenko/nivanenko.github.io
-
-# This is the list of pages to include in the header of the website.
-pages_list:
-  О блоге: '/about'
-  Архив записей: '/archive'
-  Лента: '/atom.xml'

@@ -4,17 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This is my personal blog for making some interesting notes about a programming. Stay tuned!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+Currently I am working as a Java developer. Most of the notes will be about different techniques in programming, especially about Java.
 
 ## Setup
 
@@ -23,8 +16,11 @@ Some fun facts about the setup of this project include:
 * Built for [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Contacts
 
-Thanks for reading!
+* Email - nazar.ivanenko@gmail.com
+* GitHub - [nivanenko](https://github.com/nivanenko)
+* Facebook - [Nazar Ivanenko](https://www.facebook.com/nazar.ivanenko)
+
+Thanks for following!
