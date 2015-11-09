@@ -7,16 +7,16 @@
 <body class="sidebar-overlay">
 
 {% include sidebar.html %}
-{% include comments.html %}
+
 
 <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
      content to avoid any CSS collisions with our real content. -->
 <div class="wrap">
   <div class="masthead">
-    <div class="container">
+    <div class="container content">
       <h3 class="masthead-title">
         <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-        <!--<small>{{ site.tagline }}</small>-->
+        <small>{{ site.tagline }}</small>
         {% for page in site.pages_list %}
         &nbsp;&nbsp;&nbsp;
         <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
@@ -29,7 +29,6 @@
     {{ content }}
     {% include comments.html %}
   </div>
-
 </div>
 
 <label for="sidebar-checkbox" class="sidebar-toggle"></label>
