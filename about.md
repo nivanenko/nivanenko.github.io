@@ -9,18 +9,19 @@ title: About
 
 Currently I am working as a Java developer. Most of the notes will be about different techniques in programming, especially about Java.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-
 ## Contacts
 
 * Email - nazar.ivanenko@gmail.com
 * GitHub - [nivanenko](https://github.com/nivanenko)
 * Facebook - [Nazar Ivanenko](https://www.facebook.com/nazar.ivanenko)
 
-Thanks for following!
+## How the site was built
+
+Some fun facts about the setup of this project include:
+* Built for [Jekyll](http://jekyllrb.com);
+* Used [poole](https://github.com/poole/poole) repo;
+* Hosted for free on [GitHub Pages](https://pages.github.com);
+* [The post](http://joshualande.com/jekyll-github-pages-poole/) which helped me to create this blog;
+* [Markdown](https://guides.github.com/features/mastering-markdown/) tutorial;
+
+Thanks for reading!
