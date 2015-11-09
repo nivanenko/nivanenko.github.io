@@ -18,10 +18,11 @@ Currently I am working as a Java developer. Most of the notes will be about diff
 ## How the site was built
 
 Some fun facts about the setup of this project include:
+
 * Built for [Jekyll](http://jekyllrb.com);
 * Used [poole](https://github.com/poole/poole) repo;
 * Hosted for free on [GitHub Pages](https://pages.github.com);
 * [The post](http://joshualande.com/jekyll-github-pages-poole/) which helped me to create this blog;
-* [Markdown](https://guides.github.com/features/mastering-markdown/) tutorial;
+* [Markdown](https://guides.github.com/features/mastering-markdown/) tutorial.
 
 Thanks for reading!
