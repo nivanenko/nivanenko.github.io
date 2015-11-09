@@ -5,18 +5,26 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Nazar Ivanenko
+tagline:             'Notes'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
-paginate:            5
+url:                 http://nivanenko.github.io/
+shorturl:            nivanenko.github.io
+paginate:            10
+highlighter:         pygments
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Nazar
+  email:             nazar.ivanenko@gmail.com
 
-# Custom vars
+## Custom vars
 version:             1.0.0
+github:
+  repo:              github.com/nivanenko/nivanenko.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  О блоге: '/about'
+  Архив записей: '/archive'
+  Лента: '/atom.xml'
