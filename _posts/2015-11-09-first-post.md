@@ -7,4 +7,6 @@ comments: true
 
 Hey there! I am Nazar. Here is my new blog.
 
+Please read about me [here](/about).
+
 Thanks!
