@@ -24,6 +24,7 @@ Some fun facts about the setup of this project include:
 * Hosted for free on [GitHub Pages](https://pages.github.com);
 * [The post](http://joshualande.com/jekyll-github-pages-poole/) which helped me to create this blog;
 * [Markdown](https://guides.github.com/features/mastering-markdown/) tutorial;
-* [Site](http://prose.io) for creating new posts.
+* [Site](http://prose.io) for creating new posts;
+* Nobody gives a fuck what else.
 
 Thanks for reading!
